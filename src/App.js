@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import {AlbumImage,AlbumDesc, AlbumName, ButtonUrl} from './component/index.js';
 
 function App() {
   return (
